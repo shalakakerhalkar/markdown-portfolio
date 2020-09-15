@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Green image]("C:\Users\shala\Pictures\greenery.png")
